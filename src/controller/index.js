@@ -1,0 +1,5 @@
+export * from "./admin.controller.js"
+export * from "./course.controller.js"
+export * from "./super.admin.controller.js"
+export * from "./teacher.controller.js"
+export * from "./user.controller.js"
